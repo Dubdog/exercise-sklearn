@@ -7,3 +7,5 @@ In this exercise you will practice working with `sklearn` pipelines. You will go
 * evaluating the model
 
 You will be working with datasets related to wine quality. Each item in a dataset corresponds to a wine; based on its features, such as acidity, sugar levels, density, your model will predict the quality rating of a wine.
+
+Click on **Use template** and then **<> Code** and create a codespace. When the codespace finished building the dependencies in requirements.txt should be installed.
